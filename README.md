@@ -9,7 +9,7 @@ a fresh Conda environment.
 
 ```bash
 git clone https://github.com/Gloriafjy/Two_Branch_SE_Model_With_TFA
-cd model
+cd code
 pip install -r requirements_cuda.txt
 ```
 
