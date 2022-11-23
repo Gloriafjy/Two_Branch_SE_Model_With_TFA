@@ -1,0 +1,11 @@
+h5py==3.6.0
+hdf5storage==0.1.18
+joblib==1.1.0
+librosa==0.8.0
+numpy==1.21.4
+ptflops==0.6.8
+scipy==1.8.0
+soundfile==0.10.3.post1
+torch==1.8.0
+Cython==0.29.27
+pesq==0.0.1
